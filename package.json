@@ -1,6 +1,6 @@
 {
   "name": "require-node-glob",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Import an array of node modules, using globbing and require.resolve.",
   "main": "src/index.js",
   "scripts": {
