@@ -1,5 +1,5 @@
 {
-  "name": "require-many",
+  "name": "require-node-glob",
   "version": "0.0.1",
   "description": "Import an array of node modules, using globbing and require.resolve.",
   "main": "src/index.js",
